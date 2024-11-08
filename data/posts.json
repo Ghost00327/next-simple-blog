@@ -1,0 +1,15 @@
+[
+    {
+      "id": "first-post",
+      "title": "My First Blog Post",
+      "date": "2024-11-08",
+      "content": "This is the content of my first blog post. I'm learning Next.js 13 with the App Router!"
+    },
+    {
+      "id": "second-post",
+      "title": "Learning Next.js 13",
+      "date": "2024-11-09",
+      "content": "Next.js 13 introduces a new file system for routing. It's easy to get started and powerful for building modern apps."
+    }
+  ]
+  
